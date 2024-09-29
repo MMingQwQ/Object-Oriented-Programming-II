@@ -2,6 +2,7 @@
 
 This repository contains assignments and code solutions for the COMP249 course. All assignments are developed using Eclipse.
 Language: Java (with Javadoc)
+**Type:** Individual Assignment
 
 ## Course Objective
 
