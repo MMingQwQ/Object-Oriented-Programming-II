@@ -1,4 +1,4 @@
-# COMP249 Object-Oriented Programming II
+# Object-Oriented Programming II
 
 This repository contains assignments and code solutions for the COMP249 course. All assignments are developed using Eclipse.
 Language: Java (with Javadoc)
