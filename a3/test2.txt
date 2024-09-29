@@ -1,0 +1,22 @@
+#Fruits
+Strawberry
+apple
+banana
+melon
+orange
+plum
+
+#Sports
+Hocky
+ball
+puck
+racing
+running
+running shoes
+tennis racket
+
+#Food
+burger
+cheese!
+hot-dog
+
