@@ -1,6 +1,7 @@
 # COMP249 Object-Oriented Programming II
 
 This repository contains assignments and code solutions for the COMP249 course. All assignments are developed using Eclipse.
+Language: Java (with Javadoc)
 
 ## Course Objective
 
@@ -33,8 +34,6 @@ The course covers object-oriented programming concepts such as inheritance, comp
   - **Menu System:**  
     The program offers a menu to the user with options to manage the inventory, view books by a specific author, filter by price, and exit the system.
 
----
-
 ### **Assignment 1: Library System**
 
 - **Objective:**  
@@ -52,8 +51,6 @@ The course covers object-oriented programming concepts such as inheritance, comp
     The program provides options for library employees to add or delete items, lease or return items, display leased items, and manage clients.
   - **Additional Methods:**  
     Implement methods like `getBiggestBook()` to find the largest book by pages and `copyBooks()` to create a deep copy of the books array.
-
----
 
 ### **Assignment 2: Movie File Manager**
 
@@ -80,8 +77,6 @@ The course covers object-oriented programming concepts such as inheritance, comp
   - **Error Handling:**  
     Include robust exception handling for syntax and semantic errors during file processing. For example, records with missing fields or invalid values will be captured and logged, ensuring the program continues running smoothly.
 
----
-
 ### **Assignment 3: Vocabulary Control Center**
 
 - **Objective:**  
@@ -101,8 +96,6 @@ The course covers object-oriented programming concepts such as inheritance, comp
     The system allows students to search for vocabulary words that start with a specified letter. The matching words are stored in an `ArrayList`, sorted, and displayed.
   - **File Input/Output:**  
     The vocabulary data can be saved to and loaded from a file, allowing the system to persist and retrieve vocabulary topics and words.
-
----
 
 ## IDE
 
